@@ -1,0 +1,1 @@
+C:\Users\chase\OneDrive\Desktop\Projects\portfolio-projects\wasm-graphics-lib\target\wasm32-unknown-unknown\release\wasm_graphics_lib.wasm: C:\Users\chase\OneDrive\Desktop\Projects\portfolio-projects\wasm-graphics-lib\src\lib.rs
