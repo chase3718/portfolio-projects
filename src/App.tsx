@@ -1,10 +1,9 @@
 import React from 'react';
-import Raytracing from './Pages/Raytracing';
-
+import GPUCanvasRendering from './Pages/GPUCanvasRendering';
 function App() {
 	return (
 		<div className="App">
-			<Raytracing></Raytracing>
+			<GPUCanvasRendering />
 		</div>
 	);
 }
